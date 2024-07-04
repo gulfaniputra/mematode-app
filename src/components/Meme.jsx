@@ -1,11 +1,13 @@
+import { useState } from 'react';
 import memesData from '../memesData';
 
 export default function Meme() {
+  const [memeImage, setMemeImage] = useState('http://i.imgflip.com/1bij.jpg');
+
   function getMemeImage() {
     const memesArray = memesData.data.memes;
     const randomNumber = Math.floor(Math.random() * memesArray.length);
-    const url = memesArray[randomNumber].url;
-    console.log(url);
+    setMemeImage(memesArray[randomNumber].url);
   }
 
   return (
@@ -28,6 +30,11 @@ export default function Meme() {
           Random Meme Image
         </button>
       </div>
+      <img
+        src={memeImage}
+        className="meme-image"
+        alt="A meme image placeholder"
+      />
     </main>
   );
 }
