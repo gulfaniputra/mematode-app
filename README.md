@@ -6,6 +6,8 @@ _**Notes:** This project is a work in progress._
 
 - [About](#about)
 - [Description](#description)
+- [Features](#features)
+- [Demo](#demo)
 - [Stack](#stack)
 
 ## About
@@ -27,6 +29,14 @@ The objective is to learn React and ES6 features, especially:
 - array destructuring
 - `&&` operator
 - ternary operator
+
+## Features
+
+![The screenshot of the app's features.](public/features.png)
+
+## Demo
+
+https://mematode.vercel.app/
 
 ## Stack
 
