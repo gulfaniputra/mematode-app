@@ -3,6 +3,7 @@
 }
 
 body {
+  font-family: Helvetica, Arial, sans-serif;
   margin: 0;
 }
 
@@ -36,12 +37,14 @@ body {
 }
 
 .form-input {
+  font-family: Helvetica, Arial, sans-serif;
   border-radius: 5px;
   border: 1px solid #d5d4d8;
   text-indent: 5px;
 }
 
 .form-button {
+  font-family: Helvetica, Arial, sans-serif;
   grid-column: 1 / -1;
   border-radius: 5px;
   background: #303055;
