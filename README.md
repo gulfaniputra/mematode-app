@@ -14,21 +14,23 @@ _**Notes:** This project is a work in progress._
 
 A spartan meme generator web application.
 
-The name 'Mematode' derives from the portmanteau of 'meme' and 'nematode'.
+The name 'mematode' derives from the portmanteau of 'meme' & 'nematode'.
 
 ## Description
 
-The objective is to learn React and ES6 features, especially:
+The objective is to learn ES6 & React features, especially:
 
-- props and state
-- `useState`
-- event listeners
-- forms
-- API calls
-- `useEffect`
 - array destructuring
+- arrow function
+- spread operator
+- computed property key
 - `&&` operator
 - ternary operator
+- props & state
+- `useState`
+- event handlers
+- `<input>` component
+- `useEffect`
 
 ## Features
 
@@ -40,5 +42,8 @@ https://mematode.vercel.app/
 
 ## Stack
 
-- React 18
-- Vite 5
+- HTML5
+- CSS3
+- ES6
+- Vite
+- React
