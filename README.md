@@ -20,17 +20,18 @@ The name 'mematode' derives from the portmanteau of 'meme' & 'nematode'.
 
 The objective is to learn ES6 & React features, especially:
 
-- array destructuring
+- destructuring assignment
 - arrow function
-- spread operator
-- computed property key
-- `&&` operator
+- spread syntax
+- computed property name
+- AND operator
 - ternary operator
 - props & state
-- `useState`
+- `useState` Hook
 - event handlers
 - `<input>` component
-- `useEffect`
+- `fetch()` method
+- `useEffect` Hook
 
 ## Features
 
