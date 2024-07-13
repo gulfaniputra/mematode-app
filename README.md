@@ -1,7 +1,5 @@
 # Mematode App
 
-_**Notes:** This project is a work in progress._
-
 ## Table Of Contents
 
 - [About](#about)
@@ -48,3 +46,4 @@ https://mematode.vercel.app/
 - ES6
 - Vite
 - React
+- Imgflip API
